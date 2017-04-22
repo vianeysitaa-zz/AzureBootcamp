@@ -31,10 +31,7 @@ Repositorio con los pasos para el laboratorio de Identity with Azure AD y O365
 ![alt text](http://www.rebeladmin.com/wp-content/uploads/2016/01/mfa12.jpg "Login con MFA")
 
 
+# Referencias Adicionales #
+> [Autenticación Multi-factor en Azure AD](https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-authentication)
 
-
-
-
-
-
-
+> [Autenticación Multi-factor con O365](https://support.office.com/en-us/article/Set-up-multi-factor-authentication-for-Office-365-users-8f0454b2-f51a-4d9c-bcde-2c48e41621c6)
