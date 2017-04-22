@@ -31,7 +31,7 @@
 ![Accesos](https://github.com/vianeysitaa/AzureBootcamp/blob/master/imgs/signon-8.png)
 
 ## Referencias adicionales ##
-> [Habilitar Single Sign On con O365]: https://apps.dev.microsoft.com/Landing
-> [Autenticación OAuth 2.0]: https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-v2-protocols-oauth-code
+[Habilitar Single Sign On con O365]: https://apps.dev.microsoft.com/Landing
+[Autenticación OAuth 2.0]: https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-v2-protocols-oauth-code
 
 
